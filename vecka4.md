@@ -194,7 +194,7 @@ Tre produkter med:
 
 Följande JSON innehåller flera fel. Hitta och rätta alla fel:
 
-```json
+```
 {
   'name': "Company AB",
   address: {
